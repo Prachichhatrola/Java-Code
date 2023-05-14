@@ -83,7 +83,7 @@ public class Chapter5PS {
         // 2] at least twice
         // 3] at most once
 
-        //Problem 12 : Repeat 2 using while loop .
+        //Problem 12 : Repeat 2 using while loop.
 
         int o = 2;
         int sum2 = 0;
