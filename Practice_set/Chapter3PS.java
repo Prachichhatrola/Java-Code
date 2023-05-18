@@ -14,7 +14,7 @@ public class Chapter3PS {
 
         // Problem 3 : Write a Java program to fill in a letter template which looks like below:
         // letter = "Dear <|name|>, Thanks a lot"
-        // Replace <|name|> with String(name)
+        // Replace <|name|> with String(name).
 
         String letter = "Dear <|name|>, Thanks a lot!";
         letter = letter.replace("<|name|>", "Harry");
