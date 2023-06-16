@@ -1,3 +1,5 @@
+// 3: Write a program that displays the value of 2 raised to the power 12.
+
 public class Practical_03 {
     public static void main(String[] args) {
         int base = 2;
