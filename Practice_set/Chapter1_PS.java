@@ -22,9 +22,11 @@ public class Chapter1PS {
     //3. Write a java program which asks the user to enter his/her name and greets them with "Hello <name>, have a good day" text.
 
     System.out.println("What is your name");
-    Scanner sc = new Scanner(System.in);
-    String name = sc.next();
+    Scanner scanner = new Scanner(System.in);
+    String name = scanner.next();
     System.out.println("Hello " + name + " have a good day!");
+
+        scanner.close();
 
     //4. Write a java program to convert kilometers to miles.
 
@@ -42,8 +44,10 @@ public class Chapter1PS {
     //5. Write a java program to detect whether a number entered by the user is integer or not. 
 
     System.out.println("Enter your number");
-    Scanner sc = new Scanner(System.in);
-    System.out.println(sc.hasNextInt());
+    Scanner scanner1 = new Scanner(System.in);
+    System.out.println(scanner1.hasNextInt());
+
+        scanner1.close();
 
     }
 }
