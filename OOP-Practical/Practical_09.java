@@ -1,3 +1,5 @@
+/* 9: Use While loop to generate random numbers and maintain a running sum of these values. Terminate when the sum exceeds 20. (Note: use Math. random() method to obtain numbers.) */
+
 public class Practical_09 {
     public static void main(String[] args) {
         double sum = 0;
