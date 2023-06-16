@@ -19,9 +19,11 @@ public class Chapter2PS {
 
     /*Q.3 : Use comparison operators to find out whether a given number is greater than the user enterd number or not.*/
 
-    Scanner sc = new Scanner(System.in);
-    int a = sc.nextInt();
-    System.out.println(a>8);
+    Scanner scanner = new Scanner(System.in);
+    int p = scanner.nextInt();
+    System.out.println(p>8);
+
+        scanner.close();
 
     /*Q.4 : Write the following expression in a java program:
       (v^2 - u^2)/2as*/
