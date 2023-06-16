@@ -1,3 +1,5 @@
+/*12: Write a program that creates and initializes a four element byte array. Calculate and display the average of its values. */
+
 public class Practical_12 {
     public static void main(String[] args) {
         // Create and initialize a byte array
