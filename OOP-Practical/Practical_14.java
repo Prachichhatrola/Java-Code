@@ -1,3 +1,5 @@
+/*14: Create two dimensional array of int with user given input. Display the summation of all elements of 2D array using for each loop. */
+
 import java.util.Scanner;
 
 public class Practical_14 {
