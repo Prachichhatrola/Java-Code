@@ -1,3 +1,5 @@
+// 2: Write a program to check whether given number is even or odd.
+
 import java.util.Scanner;
 
 public class Practical_02 {
