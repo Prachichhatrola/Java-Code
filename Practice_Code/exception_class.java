@@ -29,8 +29,9 @@ class MaxAgeException extends Exception {
 public class exception_class {
     public static void main(String[] args) {
         int a;
-        Scanner sc = new Scanner(System.in);
-        a = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.nextInt();
+        scanner.close();
         if (a < 9) {
             try {
                 // throw new MyException();
