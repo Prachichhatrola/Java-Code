@@ -17,9 +17,10 @@ public class errorsdemo {
 
         // RUNTIME ERROR
         int k;
-        Scanner sc = new Scanner(System.in);
-        k = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        k = scanner.nextInt();
         System.out.println("Integer part of 1000 divided by k is " + 1000 / k);
+        scanner.close();
 
     }
 }
