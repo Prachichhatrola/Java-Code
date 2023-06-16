@@ -1,3 +1,5 @@
+/*15: Write a program that will create two strings using new keyword, compare them and show true if they are same, append second to first. */
+
 public class Practical_15 {
     public static void main(String[] args) {
         String str1 = new String("Hello");
