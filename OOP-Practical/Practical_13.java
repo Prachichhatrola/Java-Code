@@ -1,3 +1,5 @@
+/*13: Write a program to search in the int array with use of for each style for loop. */
+
 public class Practical_13 {
     public static void main(String[] args) {
         int[] numbers = { 10, 20, 30, 40, 50 };
