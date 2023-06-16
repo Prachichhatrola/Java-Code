@@ -1,3 +1,5 @@
+/*10: Write an application that generates the first 15 numbers in the Fibonacci series.  */
+
 public class Practical_10 {
     public static int fibonacci(int n) {
         if (n == 0 || n == 1)
