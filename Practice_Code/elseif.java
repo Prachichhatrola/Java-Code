@@ -1,12 +1,10 @@
-import javafx.scene.paint.Stop;
-
 import java.util.Scanner;
 public class elseif {
     public static void main(String[] args) {
         int age;
         System.out.println("Enter Your age");
-        Scanner sc = new Scanner(System.in);
-        age = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        age = scanner.nextInt();
 
         switch(age){
           case 18:
@@ -20,6 +18,8 @@ public class elseif {
           break;
           default:
           System.out.println("Enjoy your life!");
+
+                scanner.close();
         }
         System.out.println("Thanks for using my java code");
 
