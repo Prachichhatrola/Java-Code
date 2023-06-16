@@ -1,3 +1,5 @@
+/*11: Write an application that creates an array with five Float command line arguments and display the length of the array after creation and its elements.*/
+
 public class Practical_11 {
     public static void main(String[] args) {
         // Create an array with five Float values
