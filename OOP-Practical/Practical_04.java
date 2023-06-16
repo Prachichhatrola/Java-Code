@@ -1,3 +1,5 @@
+// 4: Write a program check primality of a number.
+
 public class Practical_04 {
     public static void main(String[] args) {
         int number = 29;  // Number to check for primality
