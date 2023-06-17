@@ -1,3 +1,6 @@
+// 19: Write an application that counts the total number of characters in all of its command-line arguments.
+
+
 public class Practical_19 {
     public static void main(String[] args) {
         int totalCharacterCount = 0;
