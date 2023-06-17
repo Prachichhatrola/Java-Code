@@ -1,3 +1,5 @@
+// 18: A string contains five numbers separated by commas .Write a program that displays the last number.
+
 public class Practical_18 {
     public static void main(String[] args) {
         String numbersString = "10,20,30,40,50"; 
