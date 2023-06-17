@@ -1,3 +1,5 @@
+/*33: Write a program to accept age of user with the use of commandline or scanner class. Create and throw user defined exception named “InvalidAge” with error message. */
+
 import java.util.Scanner;
 
 class InvalidAgeException extends Exception {
