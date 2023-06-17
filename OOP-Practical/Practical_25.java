@@ -1,3 +1,5 @@
+// 25: Define class complex with a function to add and to compare to complex number.
+
 class complex {
     int real, imaginary;
 
