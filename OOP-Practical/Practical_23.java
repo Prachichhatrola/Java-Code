@@ -1,3 +1,5 @@
+// 23: Create a StringBuffer object and illustrate the operation of the append() and reverse() methods.
+
 public class Practical_23 {
     public static void main(String[] args) {
         // Create a new StringBuffer object
