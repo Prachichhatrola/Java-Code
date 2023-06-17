@@ -1,3 +1,5 @@
+/*32: Write a program that will accept two integers with the use of command line or scanner class. Divide first integer by second, display the result and also handle appropriate exception if second number is zero. */
+
 import java.util.Scanner;
 
 public class Practical_32 {
