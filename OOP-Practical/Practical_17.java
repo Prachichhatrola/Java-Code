@@ -1,3 +1,5 @@
+/*17: Write a program that displays the substring formed by the last ten characters of a string given as command line argument.(Use length() method) */
+
 public class Practical_17 {
     public static void main(String[] args) {
         String inputString = "Hello, World";
