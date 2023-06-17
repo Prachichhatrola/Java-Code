@@ -1,3 +1,5 @@
+/*22: Write an application that reads and processes strings from the console(stays at console). Reverse the sequence of characters in each string and then display it. */
+
 import java.util.Scanner;
 
 public class Practical_22 {
