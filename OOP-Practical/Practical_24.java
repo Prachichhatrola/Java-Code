@@ -1,3 +1,5 @@
+// 24: Write a program to create circle class with area function to find area of circle.
+
 class circle{
     float redius;
     float pie = 3.14f;
