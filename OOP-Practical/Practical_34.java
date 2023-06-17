@@ -1,3 +1,5 @@
+// 34: Demonstrate NumberFormatException in the program when wrong data for some variable is entered.
+
 import java.util.Scanner;
 
 public class Practical_34 {
