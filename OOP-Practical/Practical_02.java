@@ -18,4 +18,3 @@ public class Practical_02 {
         scanner.close();
     }
 }
-
