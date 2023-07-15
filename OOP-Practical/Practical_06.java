@@ -10,3 +10,4 @@ public class Practical_06 {
         System.out.println("Product: " + product);
     }
 }
+
