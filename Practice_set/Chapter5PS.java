@@ -99,3 +99,4 @@ public class Chapter5PS {
         System.out.println("Even numbers sum is: "+sum2);
     }
 }
+
