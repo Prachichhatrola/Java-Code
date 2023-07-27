@@ -19,3 +19,4 @@ public class Exercise_1_1 {
         System.out.println(percentage);
     }
 }
+
