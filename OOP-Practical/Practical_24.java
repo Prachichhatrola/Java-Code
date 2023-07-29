@@ -15,3 +15,4 @@ public class Practical_24 {
         System.out.println(crl.area());
     }
 }
+
