@@ -14,3 +14,4 @@ public class Practical_01 {
         System.out.println("Last Name: " + lastName);
     }
 }
+
