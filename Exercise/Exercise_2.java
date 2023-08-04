@@ -67,3 +67,4 @@ class Exercise_2 {
       System.out.println("It is a tie");
   }
 }
+
