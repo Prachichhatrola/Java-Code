@@ -39,3 +39,4 @@ public class Abstract {
         // Child3 c3 = new Child3(); --> error
     }
 }
+
